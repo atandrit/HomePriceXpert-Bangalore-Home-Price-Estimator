@@ -6,7 +6,7 @@ Welcome to HomePriceXpert, a web application that allows users to estimate the p
 
 ## What This Project Does
 
-HomePriceXpert leverages machine learning to provide accurate home price estimates for properties in Bangalore. By entering key property details, users can quickly get an estimated price in Lakhs. This tool is ideal for home buyers, real estate agents, and anyone interested in the Bangalore housing market.
+HomePriceXpert leverages machine learning to provide accurate home price estimates for properties in Bangalore. Users can quickly get an estimated price in Lakhs by entering key property details. This tool is ideal for home buyers, real estate agents, and anyone interested in the Bangalore housing market.
 
 <!---## Diagram (Optional)--->
 
@@ -15,7 +15,7 @@ HomePriceXpert leverages machine learning to provide accurate home price estimat
 ## Installation and Usage Instructions (For End-Users)
 
 To use the HomePriceXpert application, visit the following Streamlit site where it is hosted:
-[HomePriceXpert on Streamlit](https://example.com/homepricexpert)
+[HomePriceXpert on Streamlit](https://homepricexpert.streamlit.app/)
 
 ## Installation and Usage Instructions (For Developers)
 
@@ -28,8 +28,8 @@ Ensure you have Python 3.x installed on your machine. You can download it from [
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/HomePriceXpert.git
-cd HomePriceXpert
+git clone https://github.com/yourusername/HomePriceXpert-Bangalore-Home-Price-Estimator.git
+cd HomePriceXpert-Bangalore-Home-Price-Estimator
 ```
 
 ### Install Dependencies

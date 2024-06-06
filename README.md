@@ -8,9 +8,9 @@ Welcome to HomePriceXpert, a web application that allows users to estimate the p
 
 HomePriceXpert leverages machine learning to provide accurate home price estimates for properties in Bangalore. Users can quickly get an estimated price in Lakhs by entering key property details. This tool is ideal for home buyers, real estate agents, and anyone interested in the Bangalore housing market.
 
-<!---## Diagram (Optional)--->
+## Demonstration
 
-![HomePriceXpert Demo](https://example.com/demo.gif)
+![HomePriceXpert Demo](https://github.com/atandritC/Demo-GIFs/blob/main/HomePriceXpert.gif)
 
 ## Installation and Usage Instructions (For End-Users)
 
@@ -67,4 +67,4 @@ If you would like to contribute to HomePriceXpert, please follow these guideline
 
 Before contributing, ensure your code adheres to the existing style and includes tests where appropriate. Contributions that improve the application's functionality, performance, or usability are highly appreciated.
 
-Thank you for using HomePriceXpert! Happy house hunting!
+Thank you for using HomePriceXpert! 

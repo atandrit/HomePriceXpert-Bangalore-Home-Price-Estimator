@@ -10,7 +10,7 @@ HomePriceXpert leverages machine learning to provide accurate home price estimat
 
 ## Demonstration
 
-![HomePriceXpert Demo](https://github.com/atandritC/Demo-GIFs/blob/main/HomePriceXpert.gif)
+![HomePriceXpert Demo](https://github.com/atandritC/Demo-GIFs-Pictures/blob/main/HomePriceXpert.gif)
 
 ## Installation and Usage Instructions (For End-Users)
 
